@@ -1,0 +1,3 @@
+Hardhat
+
+to deploy script - "yarn hardhat run scripts/deploy.js"
